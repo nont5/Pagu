@@ -1,0 +1,3 @@
+<h1>HTML job:</h1>
+  <p>Requires atleast 1 year of expreience of HTML, CSS, JS</p>
+  <button onclick="applyToJob">Apply</button>
