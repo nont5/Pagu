@@ -1,0 +1,37 @@
+nav{
+    border: solid;
+    background-color: wheat;
+    font-family: 'Gayathri';
+    border-radius: 10px;
+}
+nav ul, li, a{
+    font-size: xx-large;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+nav #partnerBtn{
+    color: black;
+    font-family: 'Gayathri';
+    border: solid black;
+    border-radius: 10px;
+    font-size: xx-large;
+    cursor: pointer;
+}
+.newsTab{
+    border: solid;
+    border-radius: 10px;
+    background-color: lightgray;
+    font-family: 'Gayathri';
+    width: 500px;
+    text-align: center;
+    margin-right: 35%;
+    margin-left: 35%;
+    top: -30%;
+    padding: -10px;
+}
+#noJobs{
+    color: grey;
+}
